@@ -9,7 +9,7 @@ Desarrollador fullstack principalmente con java y javascript/typescripot con los
 Otros lenguajes de programacion los cuales me interesan:
 
 * [Rust](https://github.com/rust-lang/rust)
-* Go
+* [Go](https://golang.org/)
 * [Crystal](https://github.com/crystal-lang/crystal)
 * [Vlang](https://github.com/vlang/v)
 * [Elixir](https://github.com/elixir-lang/elixir)
