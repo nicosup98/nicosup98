@@ -8,7 +8,6 @@ Desarrollador fullstack principalmente en spring :leaves: y angular2+ :a:, apren
 ### Lenguajes de interes
 Otros lenguajes de programacion los cuales me interesan:
 
-* Javascript/typescript
 * [Rust](https://github.com/rust-lang/rust)
 * Go
 * [Crystal](https://github.com/crystal-lang/crystal)
