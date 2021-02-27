@@ -5,7 +5,7 @@
 Desarrollador fullstack principalmente en spring :leaves: y angular2+ :a:, aprendiendo un poco <del>casi</del> todos los dias,
 
 ### Lenguajes de interes
-Algunos lenguajes de programacion los cuales me interesan:
+Otros lenguajes de programacion los cuales me interesan:
 
 * Javascript/typescript
 * [Rust](https://github.com/rust-lang/rust)
