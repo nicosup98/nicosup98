@@ -20,3 +20,4 @@ Tambien uso estos frameworks para algunos proeyectos personales:
 * [Gin](https://github.com/gin-gonic/gin)
 * [Kemal](https://github.com/kemalcr/kemal)
 * [oak](https://github.com/oakserver/oak)
+* [vex](https://github.com/nedpals/vex)
