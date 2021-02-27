@@ -14,7 +14,7 @@ Otros lenguajes de programacion los cuales me interesan:
 * [Vlang](https://github.com/vlang/v)
 * [Elixir](https://github.com/elixir-lang/elixir)
 
-Tambien uso estos frameworks para algunos proeyectos personales:
+Tambien uso estos frameworks/librerias para mis proyectos personales:
 
 * [React](https://github.com/facebook/react)
 * [Gin](https://github.com/gin-gonic/gin)
