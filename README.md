@@ -7,17 +7,17 @@ Desarrollador fullstack principalmente en spring :leaves: y angular2+ :a:, apren
 ### Lenguajes de interes
 Algunos lenguajes de programacion los cuales me interesan:
 
-*javascript/typescript
-*rust
-*go
-*[crystal](https://github.com/crystal-lang/crystal)
-*[vlang](https://github.com/vlang/v)
-*elixir
-*java
+* Javascript/typescript
+* Rust
+* [Go](https://golang.org/)
+* [Crystal](https://github.com/crystal-lang/crystal)
+* [Vlang](https://github.com/vlang/v)
+* [Elixir](https://github.com/elixir-lang/elixir)
+* Java
 
 Tambien uso estos frameworks para algunos proeyectos personales:
 
-*react
-*gin
-*[kemal](https://github.com/kemalcr/kemal)
+* [React](https://github.com/facebook/react)
+* [Gin](https://github.com/gin-gonic/gin)
+* [Kemal](https://github.com/kemalcr/kemal)
 
