@@ -12,7 +12,6 @@ Otros lenguajes de programacion los cuales me interesan:
 * [Go](https://golang.org/)
 * [Crystal](https://github.com/crystal-lang/crystal)
 * [Vlang](https://github.com/vlang/v)
-* [Elixir](https://github.com/elixir-lang/elixir)
 
 Tambien uso estos frameworks/librerias para mis proyectos personales:
 
@@ -20,4 +19,3 @@ Tambien uso estos frameworks/librerias para mis proyectos personales:
 * [Gin](https://github.com/gin-gonic/gin)
 * [Kemal](https://github.com/kemalcr/kemal)
 * [oak](https://github.com/oakserver/oak)
-* [vex](https://github.com/nedpals/vex)
