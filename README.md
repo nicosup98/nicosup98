@@ -1,7 +1,7 @@
 ###  Que tal👋
 
 ## Full stack web developer
-![](https://img.shields.io/badge/backend-good-green?style=for-the-badge&logo=spring) ![](https://img.shields.io/badge/frontend-good-red?style=for-the-badge&logo=angular)
+![](https://img.shields.io/badge/backend-good-green?style=for-the-badge&logo=spring) ![](https://img.shields.io/badge/frontend-good-red?style=for-the-badge&logo=angular) ![](https://www.codewars.com/users/nicosup98/badges/small)
 
 Desarrollador fullstack principalmente con java y javascript/typescripot con los frameworks spring :leaves: y angular2+ :a:, aprendiendo un poco <del>casi</del> todos los dias,
 
