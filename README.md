@@ -1,9 +1,9 @@
-###  Que tal👋
+###  Que tal👋 ![](https://img.shields.io/badge/developer-yellow.svg?style=for-the-badge&logo=javascript)
 
 ## Full stack web developer
-![](https://img.shields.io/badge/backend-good-green?style=for-the-badge&logo=spring) ![](https://img.shields.io/badge/frontend-good-red?style=for-the-badge&logo=angular) ![](https://www.codewars.com/users/nicosup98/badges/large)
+ ![](https://www.codewars.com/users/nicosup98/badges/large)
 
-Desarrollador fullstack principalmente con java y javascript/typescripot con los frameworks spring :leaves: y angular2+ :a:, aprendiendo un poco <del>casi</del> todos los dias,
+Desarrollador fullstack, aprendiendo un poco todos los dias,
 
 ### Lenguajes de interes
 Otros lenguajes de programacion los cuales me interesan:
@@ -19,3 +19,8 @@ Tambien uso estos frameworks/librerias para mis proyectos personales:
 * [Gin](https://github.com/gin-gonic/gin)
 * [Kemal](https://github.com/kemalcr/kemal)
 * [oak](https://github.com/oakserver/oak)
+
+### connect
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/nicolangelo-damico-rincon/
