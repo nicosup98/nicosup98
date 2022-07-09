@@ -15,8 +15,8 @@ Otros lenguajes de programacion los cuales me interesan:
 Tambien uso estos frameworks/librerias para mis proyectos personales:
 
 * [React](https://github.com/facebook/react)
-* [Gin](https://github.com/gin-gonic/gin)
-* [anchor](https://github.com/project-serum/anchor)
+* [Fiber](https://github.com/gofiber/fiber)
+* [svelte](https://svelte.dev/)
 ### connect
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)][linkedin]
 
