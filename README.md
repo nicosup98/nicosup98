@@ -1,14 +1,17 @@
-###  Que tal👋 ![](https://img.shields.io/badge/developer-yellow.svg?style=for-the-badge&logo=javascript)
+###  Que tal👋
 
-## Full stack web developer
- ![](https://www.codewars.com/users/nicosup98/badges/large)
+## Full stack web developer  ![](https://img.shields.io/badge/dev-DD0031.svg?logo=angular&logoColor=white) ![](https://img.shields.io/badge/dev-blue.svg?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/dev-yellow.svg?logo=javascript&logoColor=white) ![](https://img.shields.io/badge/dev-blue.svg?logo=postgresql&logoColor=white)
+
+![](https://img.shields.io/badge/playground-339933.svg?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/playground-black.svg?logo=deno&logoColor=white)
+
 
 Desarrollador fullstack, aprendiendo un poco todos los dias,
 
 ### Lenguajes de interes
 Otros lenguajes de programacion los cuales me interesan:
 
-* [Rust](https://github.com/rust-lang/rust)
+* [Nim](https://nim-lang.org/)
 * [Go](https://golang.org/)
 * [Crystal](https://github.com/crystal-lang/crystal)
 
