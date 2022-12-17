@@ -14,6 +14,7 @@ Otros lenguajes de programacion los cuales me interesan:
 * [Nim](https://nim-lang.org/)
 * [Go](https://golang.org/)
 * [Crystal](https://github.com/crystal-lang/crystal)
+* [python](https://www.python.org/)
 
 Tambien uso estos frameworks/librerias para mis proyectos personales:
 
