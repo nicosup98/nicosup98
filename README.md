@@ -1,9 +1,6 @@
 ###  Que tal👋
 
-## Full stack web developer  ![](https://img.shields.io/badge/dev-DD0031.svg?logo=angular&logoColor=white) ![](https://img.shields.io/badge/dev-blue.svg?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/dev-yellow.svg?logo=javascript&logoColor=white) ![](https://img.shields.io/badge/dev-blue.svg?logo=postgresql&logoColor=white)
-
-![](https://img.shields.io/badge/playground-339933.svg?logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/playground-black.svg?logo=deno&logoColor=white)
+## Full stack web developer  ![](https://img.shields.io/badge/dev-DD0031.svg?logo=angular&logoColor=white) ![](https://img.shields.io/badge/dev-blue.svg?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/dev-yellow.svg?logo=javascript&logoColor=white) ![](https://img.shields.io/badge/dev-blue.svg?logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/dev-black.svg?logo=deno&logoColor=white)
 
 
 Desarrollador fullstack, aprendiendo un poco todos los dias,
