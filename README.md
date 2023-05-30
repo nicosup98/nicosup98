@@ -12,6 +12,7 @@ Otros lenguajes de programacion los cuales me interesan:
 * [Go](https://golang.org/)
 * [Crystal](https://github.com/crystal-lang/crystal)
 * [python](https://www.python.org/)
+* [zig](https://ziglang.org/)
 
 Tambien uso estos frameworks/librerias para mis proyectos personales:
 
