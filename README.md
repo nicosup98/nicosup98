@@ -15,11 +15,6 @@ Otros lenguajes de programacion los cuales me interesan:
 * [zig](https://ziglang.org/)
 * [gleam](https://gleam.run/)
 
-Tambien uso estos frameworks/librerias para mis proyectos personales:
-
-* [React](https://github.com/facebook/react)
-* [Fiber](https://github.com/gofiber/fiber)
-* [svelte](https://svelte.dev/)
 ### connect
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)][linkedin]
 
