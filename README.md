@@ -15,6 +15,7 @@ Desarrollador fullstack, aprendiendo un poco todos los dias,
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=nicosup98&show_icons=true&theme=cobalt" />
+  <br>
 <!--   <img align="center" width="424" src="http://github-readme-streak-stats.herokuapp.com?user=nicosup98&theme=cobalt" /> -->
   <img align="end" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicosup98&layout=pie&theme=cobalt&size_weight=0.5&count_weight=0.5" />
 </a>
